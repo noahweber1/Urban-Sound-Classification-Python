@@ -13,3 +13,6 @@ These 8732 sound excerpts (<=4s) of urban sounds from 10 classes are:
     jackhammer,
     siren, and
     street music
+
+
+Main library is librosa.  A python package for music and audio analysis.
